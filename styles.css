@@ -1,0 +1,13 @@
+@import './sb-styles.css';
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-stack-en);
+  color: black;
+  background-color: blue;
+  padding: 5%;
+}
